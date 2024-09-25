@@ -1,5 +1,2 @@
 # belajar-kolaborasi
-tambahan
-S
-A
-K
+Belajar GitHub di Dicoding sangat menyenangkan!
